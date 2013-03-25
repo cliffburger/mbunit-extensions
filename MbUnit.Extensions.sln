@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Daptiv.MbUnit", "Daptiv.MbUnit\Daptiv.MbUnit.csproj", "{BE8D96B7-0750-438E-B510-E8C4B53D3B56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Daptiv.MbUnit.Tests", "Daptiv.MbUnit.Tests\Daptiv.MbUnit.Tests.csproj", "{2D5230E1-F424-437C-A944-6CB783ADE4D5}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://wavstsapp1:8080/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Daptiv.MbUnit.Tests\\Daptiv.MbUnit.Tests.csproj
+		SccProjectName1 = Daptiv.MbUnit.Tests
+		SccLocalPath1 = Daptiv.MbUnit.Tests
+		SccProjectUniqueName2 = Daptiv.MbUnit\\Daptiv.MbUnit.csproj
+		SccProjectName2 = Daptiv.MbUnit
+		SccLocalPath2 = Daptiv.MbUnit
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE8D96B7-0750-438E-B510-E8C4B53D3B56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE8D96B7-0750-438E-B510-E8C4B53D3B56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE8D96B7-0750-438E-B510-E8C4B53D3B56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE8D96B7-0750-438E-B510-E8C4B53D3B56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D5230E1-F424-437C-A944-6CB783ADE4D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D5230E1-F424-437C-A944-6CB783ADE4D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D5230E1-F424-437C-A944-6CB783ADE4D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D5230E1-F424-437C-A944-6CB783ADE4D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
